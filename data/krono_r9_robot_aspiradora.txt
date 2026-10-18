@@ -1,0 +1,257 @@
+KRONO R9 — ROBOT ASPIRADORA Y FREGONA INTELIGENTE
+Manual de producto, especificaciones y soporte
+Fabricante: Hogaria Robotics S.R.L. (Rosario, Argentina)
+Versión del documento: 2.0 — Fecha de publicación: mayo de 2026
+
+==================================================
+1. DESCRIPCIÓN GENERAL
+==================================================
+
+El Krono R9 es un robot aspiradora y fregona (mopa) con navegación láser,
+estación de autovaciado y lavado automático de mopas. Está pensado para hogares
+de hasta 250 metros cuadrados, con mascotas y con distintos tipos de piso.
+
+Es el modelo más avanzado de la línea Krono, por encima del Krono R5 (modelo de
+entrada) y del Krono R7 (modelo intermedio). Fue lanzado el 20 de abril de 2026.
+
+Número de modelo: HR-KR9-26.
+Colores disponibles: Gris Titanio y Blanco Perla.
+
+==================================================
+2. ESPECIFICACIONES TÉCNICAS
+==================================================
+
+Aspirado:
+- Potencia de succión máxima: 12.000 Pa (pascales).
+- Cuatro niveles de succión: Silencioso (2.000 Pa), Estándar (5.000 Pa),
+  Turbo (8.000 Pa) y Máximo (12.000 Pa).
+- Cepillo principal de goma antienredos con sistema "CorteHilo", que corta
+  automáticamente pelos largos y de mascotas.
+- Dos cepillos laterales; el derecho se extiende automáticamente para limpiar
+  esquinas y zócalos.
+- Depósito de polvo interno: 300 ml.
+
+Fregado:
+- Dos mopas giratorias a 200 revoluciones por minuto.
+- Presión de fregado: 12 newtons.
+- Las mopas se elevan 10,5 mm al detectar alfombras.
+- Depósito de agua interno: 80 ml (se recarga automáticamente en la estación).
+
+Navegación y sensores:
+- Sensor láser LiDAR giratorio de 360 grados, alcance de 8 metros.
+- Cámara frontal con IA para reconocer obstáculos ("VisionKrono").
+- Reconoce 72 tipos de objetos: cables, medias, zapatos, excrementos de
+  mascotas, juguetes, cuencos de comida, entre otros.
+- Sensores anticaída (6 unidades) para escaleras.
+- Capacidad para superar obstáculos de hasta 2,2 cm de altura.
+- Mapeo de hasta 4 pisos distintos en la memoria.
+
+Batería:
+- Batería de litio de 5.200 mAh.
+- Autonomía: hasta 180 minutos en modo Silencioso; 110 minutos en modo Estándar.
+- Tiempo de carga completa: 4 horas.
+- Si la batería se agota durante la limpieza, vuelve a la base, carga lo
+  necesario y retoma desde donde quedó (función "Recarga y Retoma").
+
+Dimensiones y peso:
+- Robot: 35 cm de diámetro x 9,7 cm de alto.
+- Peso del robot: 4,1 kg.
+- Estación: 42 cm de ancho x 45 cm de profundidad x 48 cm de alto.
+
+Ruido:
+- 52 dB en modo Silencioso.
+- 68 dB en modo Máximo.
+- El autovaciado genera 78 dB durante aproximadamente 12 segundos.
+
+==================================================
+3. ESTACIÓN TODO EN UNO "KRONODOCK"
+==================================================
+
+La estación KronoDock realiza las siguientes tareas de forma automática:
+- Vacía el depósito de polvo del robot en una bolsa de 3 litros, que dura
+  aproximadamente 75 días de uso.
+- Lava las mopas con agua caliente a 60 °C.
+- Seca las mopas con aire caliente a 45 °C durante 2 horas para evitar olores.
+- Recarga el depósito de agua del robot.
+- Agrega detergente automáticamente desde un compartimento de 400 ml.
+
+Depósitos de la estación:
+- Tanque de agua limpia: 4 litros.
+- Tanque de agua sucia: 3,5 litros.
+
+Existe un kit opcional de conexión directa al agua de red ("Kit AguaDirecta"),
+que elimina la necesidad de llenar y vaciar los tanques manualmente. Precio:
+USD 79.
+
+==================================================
+4. PRECIO Y CONTENIDO
+==================================================
+
+Precio de lista en Argentina: ARS 1.450.000 (mayo de 2026).
+Precio internacional sugerido: USD 899.
+
+Comparación de la línea Krono:
+- Krono R5: USD 299. Navegación por giroscopio, sin estación, 3.000 Pa.
+- Krono R7: USD 549. LiDAR, estación de autovaciado, 6.000 Pa, sin lavado de
+  mopas.
+- Krono R9: USD 899. LiDAR + cámara IA, estación completa, 12.000 Pa.
+
+Contenido de la caja:
+- Robot Krono R9.
+- Estación KronoDock.
+- 2 mopas instaladas y 2 mopas de repuesto.
+- 1 cepillo lateral de repuesto.
+- 2 bolsas de polvo (una instalada).
+- 1 filtro HEPA de repuesto.
+- Rampa de nivelación para la estación.
+- Botella de detergente de muestra de 200 ml.
+
+==================================================
+5. INSTALACIÓN
+==================================================
+
+5.1 Ubicación de la estación
+Colocar la KronoDock contra una pared, sobre piso duro y nivelado. Dejar un
+espacio libre de 50 cm a cada lado y 1,5 metros al frente. No ubicarla sobre
+alfombras ni bajo luz solar directa.
+
+5.2 Primer encendido
+Mantener presionado el botón de encendido del robot durante 3 segundos. El
+anillo de luz se iluminará en blanco. Colocar el robot en la estación para que
+cargue durante al menos 2 horas antes del primer uso.
+
+5.3 Conexión a la app
+- Descargar la app "Hogaria Home" (Android 9+ / iOS 15+).
+- Crear una cuenta o iniciar sesión.
+- Pulsar "Agregar dispositivo" y seleccionar Krono R9.
+- Mantener presionados los botones "Inicio" y "Punto" durante 5 segundos
+  hasta escuchar "Modo de conexión Wi-Fi".
+- Seleccionar una red Wi-Fi de 2,4 GHz. El robot NO es compatible con redes de
+  5 GHz.
+
+5.4 Primer mapeo
+En la app, seleccionar "Mapeo rápido". El robot recorrerá la casa sin limpiar
+para generar el mapa en aproximadamente 8 minutos por cada 100 metros
+cuadrados. Luego se pueden dividir y nombrar habitaciones.
+
+==================================================
+6. FUNCIONES DE LA APP HOGARIA HOME
+==================================================
+
+- Limpieza por habitación, con orden personalizado.
+- Zonas prohibidas ("zonas rojas") y paredes virtuales.
+- Zonas de no fregar, para proteger alfombras o pisos de madera sin sellar.
+- Programación semanal por día, hora y habitación.
+- Modo Mascotas: aumenta la succión cerca de las camas de las mascotas y evita
+  los cuencos de comida y agua.
+- Control remoto manual desde el teléfono.
+- Cámara en vivo: permite ver lo que ve el robot (requiere activar la opción de
+  privacidad con un PIN de 6 dígitos).
+- Historial de limpieza con mapa de cobertura.
+- Indicador de vida útil de consumibles.
+- Compatibilidad con Alexa, Google Assistant y Apple Home (a través de Matter).
+
+==================================================
+7. BOTONES DEL ROBOT
+==================================================
+
+- Botón de encendido / limpieza: un toque inicia la limpieza completa;
+  mantener 3 segundos enciende o apaga.
+- Botón "Inicio": envía el robot a la estación.
+- Botón "Punto": limpia en espiral un área de 1,5 x 1,5 metros alrededor del
+  robot.
+- Bloqueo infantil: mantener "Inicio" y "Punto" durante 3 segundos con el robot
+  en la base (también se activa desde la app).
+
+==================================================
+8. MANTENIMIENTO
+==================================================
+
+Frecuencias recomendadas:
+- Cepillo principal: limpiar cada semana; reemplazar cada 6 a 12 meses.
+- Cepillos laterales: limpiar cada 2 semanas; reemplazar cada 3 a 6 meses.
+- Filtro HEPA: limpiar cada 2 semanas (no lavar con agua); reemplazar cada 3 a
+  6 meses.
+- Mopas: reemplazar cada 3 a 6 meses.
+- Bolsa de polvo: reemplazar cuando la app lo indique (aprox. cada 75 días).
+- Sensor LiDAR y cámara: limpiar con paño seco cada mes.
+- Bandeja de lavado de la estación: limpiar cada 2 semanas.
+
+Kit de mantenimiento anual "KronoKit R9": incluye 1 cepillo principal,
+4 cepillos laterales, 4 mopas, 3 filtros HEPA y 6 bolsas. Precio: USD 69.
+
+==================================================
+9. CÓDIGOS DE ERROR
+==================================================
+
+- Error 1: el cepillo principal está trabado. Retirar y limpiar el cepillo.
+- Error 2: rueda atascada o suspendida. Mover el robot a una superficie plana.
+- Error 3: sensor anticaída sucio. Limpiar los sensores inferiores.
+- Error 4: sensor LiDAR obstruido. Revisar que nada bloquee la torre láser.
+- Error 5: batería con temperatura fuera de rango. Usar entre 0 °C y 40 °C.
+- Error 6: depósito de agua sucia de la estación lleno. Vaciar el tanque.
+- Error 7: tanque de agua limpia vacío. Rellenar el tanque.
+- Error 8: bolsa de polvo llena o no instalada.
+- Error 9: el robot no encuentra la estación. Llevarlo manualmente a la base.
+- Error 10: fallo de conexión Wi-Fi. Verificar que la red sea de 2,4 GHz.
+
+Reinicio de fábrica: con el robot encendido, mantener presionado el botón
+"Punto" durante 10 segundos. Esto borra mapas, programaciones y la configuración
+Wi-Fi.
+
+==================================================
+10. GARANTÍA
+==================================================
+
+- Robot: 2 años de garantía.
+- Batería: 18 meses de garantía.
+- Estación KronoDock: 2 años de garantía.
+- Consumibles (cepillos, mopas, filtros, bolsas): sin garantía.
+- La garantía se anula si el robot se utiliza para aspirar líquidos, cenizas
+  calientes o materiales de construcción, o si se abre fuera del servicio
+  técnico oficial.
+
+Servicio técnico "Hogaria a Domicilio": en Rosario, Córdoba, CABA y Gran Buenos
+Aires, un técnico retira el equipo en el domicilio sin costo dentro del período
+de garantía. El tiempo de reparación promedio es de 7 días hábiles.
+
+Contacto:
+- Correo: ayuda@hogaria.com.ar
+- Teléfono: 0800-555-4642
+- Chat en la app Hogaria Home, de lunes a sábado de 8 a 20 h.
+
+==================================================
+11. PRIVACIDAD Y SEGURIDAD
+==================================================
+
+- Las imágenes de la cámara se procesan localmente en el robot; no se envían a
+  la nube salvo que el usuario active la cámara en vivo.
+- Los mapas se almacenan cifrados con AES-256.
+- El robot cuenta con certificación de ciberseguridad ETSI EN 303 645.
+- Las actualizaciones de firmware se instalan automáticamente de madrugada,
+  mientras el robot está en la base.
+
+==================================================
+12. PREGUNTAS FRECUENTES
+==================================================
+
+¿Sirve para alfombras de pelo largo?
+Sí, aunque en alfombras de pelo mayor a 2 cm el robot solo aspira y desactiva
+el fregado. Se recomienda el modo Máximo.
+
+¿Puede limpiar varios pisos de una casa?
+Sí, guarda hasta 4 mapas, pero hay que trasladar el robot manualmente de piso.
+La estación solo puede estar en uno de ellos.
+
+¿Funciona sin Wi-Fi?
+Sí, mediante los botones físicos, pero sin acceso a mapas, programación ni
+zonas prohibidas.
+
+¿Esquiva los desechos de mascotas?
+Sí, gracias a la cámara VisionKrono. Hogaria ofrece la "Garantía Mascota":
+si el robot pasa por encima de excrementos de mascotas dentro del primer año,
+lo reemplazan sin costo.
+
+¿Cuál es la diferencia principal con el Krono R7?
+El R9 duplica la succión (12.000 Pa contra 6.000 Pa), agrega cámara con IA,
+mopas giratorias y lavado y secado automático de mopas en la estación.

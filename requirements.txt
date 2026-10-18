@@ -1,0 +1,10 @@
+langchain-community
+langchain-text-splitters
+tiktoken
+langchain-chroma
+
+# Embeddings (alcanza con instalar el del proveedor que uses)
+langchain-google-genai
+langchain-openai
+langchain-huggingface
+sentence-transformers

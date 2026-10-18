@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Índices de Chroma generados al ejecutar (se reconstruyen con main.py)
+vectorstore/

@@ -1,0 +1,253 @@
+AURALIS X2 — AURICULARES INALÁMBRICOS CON CANCELACIÓN DE RUIDO
+Ficha técnica, guía de uso y preguntas frecuentes
+Fabricante: Sonora Labs S.A. (Córdoba, Argentina)
+Versión del documento: 3.1 — Fecha de publicación: marzo de 2026
+
+==================================================
+1. DESCRIPCIÓN GENERAL
+==================================================
+
+Los Auralis X2 son auriculares inalámbricos de tipo over-ear (circumaurales)
+diseñados por Sonora Labs para usuarios que buscan cancelación activa de ruido
+(ANC) de alto rendimiento, larga autonomía y comodidad durante jornadas extensas.
+Son la segunda generación de la línea Auralis, sucesora de los Auralis X1
+lanzados en 2024.
+
+El modelo fue presentado oficialmente el 12 de febrero de 2026 en la feria
+TecnoSur de Buenos Aires y comenzó a venderse el 1 de marzo de 2026.
+
+El código de modelo interno es SL-AX2-2026. Existen tres colores disponibles:
+- Negro Grafito (código NG)
+- Blanco Nieve (código BN)
+- Verde Salvia (código VS), edición limitada de 15.000 unidades
+
+==================================================
+2. ESPECIFICACIONES TÉCNICAS
+==================================================
+
+Audio:
+- Drivers dinámicos de 40 mm con diafragma de grafeno.
+- Respuesta en frecuencia: 4 Hz a 40.000 Hz.
+- Impedancia: 32 ohmios.
+- Sensibilidad: 102 dB SPL/mW.
+- Distorsión armónica total (THD): menor a 0,08 % a 1 kHz.
+- Certificación Hi-Res Audio Wireless.
+
+Cancelación de ruido:
+- Sistema ANC híbrido con 8 micrófonos (4 por auricular).
+- Reducción de ruido de hasta 42 dB en frecuencias bajas.
+- Chip de procesamiento propio: Sonora Q3, con procesamiento a 48 kHz.
+- Modos: ANC Total, ANC Adaptativo, Modo Ambiente y Modo Conversación.
+
+Conectividad:
+- Bluetooth 5.4 con soporte de LE Audio y Auracast.
+- Códecs compatibles: SBC, AAC, LDHAC y LC3.
+- Multipunto: conexión simultánea con hasta 2 dispositivos.
+- Alcance: hasta 15 metros sin obstáculos.
+- Entrada USB-C con audio digital (permite escuchar mientras carga).
+- Jack de 3,5 mm para uso con cable (funciona también con la batería agotada,
+  pero en ese caso el ANC queda desactivado).
+
+Batería:
+- Capacidad: 820 mAh.
+- Autonomía con ANC activado: 48 horas.
+- Autonomía con ANC desactivado: 65 horas.
+- Carga rápida: 10 minutos de carga brindan 6 horas de reproducción.
+- Tiempo de carga completa: 1 hora y 50 minutos.
+- Cargador recomendado: USB-C Power Delivery de 18 W o superior.
+
+Físico:
+- Peso: 254 gramos.
+- Materiales: aluminio anodizado en las bisagras, almohadillas de espuma
+  viscoelástica con cuero vegano, diadema con acolchado de silicona.
+- Diseño plegable con estuche rígido incluido.
+- Resistencia al agua y al sudor: IPX4.
+
+Controles:
+- Panel táctil en el auricular derecho.
+- Botón físico de encendido y emparejamiento.
+- Botón físico "Modo" para alternar entre ANC y Ambiente.
+- Sensor de proximidad que pausa la música al quitarse los auriculares.
+
+==================================================
+3. CONTENIDO DE LA CAJA
+==================================================
+
+- Auriculares Auralis X2.
+- Estuche rígido de transporte con cierre magnético.
+- Cable USB-C a USB-C de 1,2 metros.
+- Cable de audio de 3,5 mm de 1,5 metros.
+- Adaptador para avión de doble clavija.
+- Guía rápida impresa y tarjeta de garantía.
+
+El cargador de pared NO está incluido en la caja.
+
+==================================================
+4. PRECIOS Y DISPONIBILIDAD
+==================================================
+
+Precio de lista sugerido en Argentina: ARS 689.000 (marzo de 2026).
+Precio sugerido en dólares para el mercado internacional: USD 349.
+La edición Verde Salvia tiene un precio de USD 379.
+
+Disponibles en: Argentina, Uruguay, Chile, Paraguay, México y España.
+En Brasil la llegada está prevista para el segundo semestre de 2026.
+
+Se venden en la tienda oficial sonoralabs.com.ar y en cadenas autorizadas.
+Sonora Labs ofrece hasta 12 cuotas sin interés en su tienda oficial.
+
+==================================================
+5. PRIMEROS PASOS
+==================================================
+
+5.1 Encendido
+Mantener presionado el botón de encendido durante 2 segundos. Una voz indicará
+"Auralis encendido" y el LED se iluminará en blanco.
+
+5.2 Emparejamiento
+Con los auriculares apagados, mantener presionado el botón de encendido durante
+5 segundos hasta que el LED parpadee en azul. Luego, buscar "Auralis X2" en el
+menú Bluetooth del teléfono o computadora.
+
+5.3 Agregar un segundo dispositivo (multipunto)
+Con un dispositivo ya conectado, mantener presionado el botón "Modo" y el botón
+de encendido al mismo tiempo durante 3 segundos. Los auriculares entrarán en
+modo de emparejamiento sin desconectar el primer dispositivo.
+
+5.4 Aplicación Sonora Connect
+La app Sonora Connect está disponible para Android 10 o superior e iOS 16 o
+superior. Permite:
+- Ajustar el ecualizador de 10 bandas.
+- Elegir el nivel de ANC adaptativo (escala de 1 a 10).
+- Actualizar el firmware.
+- Configurar los gestos del panel táctil.
+- Activar la función "Encontrar mis auriculares".
+- Crear un perfil auditivo personalizado mediante una prueba de 3 minutos.
+
+==================================================
+6. GESTOS DEL PANEL TÁCTIL
+==================================================
+
+- Un toque: reproducir / pausar.
+- Doble toque: siguiente canción.
+- Triple toque: canción anterior.
+- Deslizar hacia arriba: subir volumen.
+- Deslizar hacia abajo: bajar volumen.
+- Mantener presionado 2 segundos: activar el asistente de voz.
+- Cubrir el panel con la palma de la mano: activar temporalmente el Modo
+  Conversación (baja la música y deja pasar las voces).
+
+Durante una llamada:
+- Un toque: atender o colgar.
+- Mantener presionado 2 segundos: rechazar la llamada.
+
+==================================================
+7. MODOS DE CANCELACIÓN DE RUIDO
+==================================================
+
+ANC Total: máxima reducción de ruido. Recomendado para aviones, trenes y
+oficinas ruidosas. Consume más batería.
+
+ANC Adaptativo: el chip Sonora Q3 analiza el entorno cada 0,5 segundos y ajusta
+la intensidad automáticamente. Es el modo predeterminado de fábrica.
+
+Modo Ambiente: amplifica el sonido exterior para escuchar el entorno sin
+quitarse los auriculares. Útil al caminar por la calle.
+
+Modo Conversación: detecta cuando el usuario empieza a hablar, pausa la música
+y activa el Modo Ambiente. Vuelve al modo anterior tras 8 segundos de silencio.
+
+==================================================
+8. ACTUALIZACIONES DE FIRMWARE
+==================================================
+
+Versión actual de firmware: 2.4.1 (publicada en agosto de 2026).
+
+Historial de versiones:
+- 1.0.0 (marzo 2026): versión de lanzamiento.
+- 1.2.0 (abril 2026): mejora de estabilidad en multipunto.
+- 2.0.0 (junio 2026): incorporación de Auracast y del Modo Conversación.
+- 2.4.1 (agosto 2026): mejora del 15 % en la calidad del micrófono en llamadas
+  y corrección de un error que vaciaba la batería en modo reposo.
+
+Para actualizar: abrir la app Sonora Connect, ir a Ajustes > Firmware y pulsar
+"Actualizar". El proceso tarda aproximadamente 12 minutos. Los auriculares deben
+tener al menos 30 % de batería.
+
+==================================================
+9. SOLUCIÓN DE PROBLEMAS
+==================================================
+
+Problema: los auriculares no se encienden.
+Solución: conectarlos a un cargador durante al menos 15 minutos. Si el LED no
+se enciende, probar con otro cable USB-C.
+
+Problema: el sonido se corta.
+Solución: verificar que no haya más de 15 metros de distancia ni paredes
+gruesas. Desactivar el códec LDHAC desde la app, ya que requiere mayor ancho de
+banda.
+
+Problema: el micrófono no funciona en llamadas.
+Solución: revisar los permisos de micrófono del teléfono y actualizar el
+firmware a la versión 2.4.1 o superior.
+
+Problema: se escucha un zumbido con el ANC activado.
+Solución: limpiar las rejillas de los micrófonos externos con un cepillo seco.
+Si persiste, recalibrar el ANC desde Sonora Connect > Ajustes > Calibrar ANC.
+
+Reinicio de fábrica:
+Mantener presionados simultáneamente el botón de encendido y el botón "Modo"
+durante 15 segundos, hasta que el LED parpadee en rojo tres veces. Esto borra
+todos los dispositivos emparejados y la configuración personalizada.
+
+==================================================
+10. GARANTÍA Y SERVICIO TÉCNICO
+==================================================
+
+- Garantía oficial: 2 años desde la fecha de compra.
+- La garantía cubre defectos de fabricación, fallas de batería (si la capacidad
+  cae por debajo del 70 % dentro del período de garantía) y fallas de drivers.
+- No cubre: daños por caídas, contacto con líquidos más allá de la norma IPX4,
+  desgaste normal de las almohadillas ni modificaciones no autorizadas.
+- Plan extendido "Sonora Care+": agrega 1 año adicional de garantía y un
+  reemplazo por daño accidental. Costo: USD 39.
+- Almohadillas de repuesto: se venden por separado a USD 25 el par.
+
+Contacto de soporte:
+- Correo electrónico: soporte@sonoralabs.com.ar
+- WhatsApp: +54 351 555-0142
+- Horario: lunes a viernes de 9 a 18 h (hora de Argentina).
+
+==================================================
+11. SOSTENIBILIDAD
+==================================================
+
+- El 35 % del plástico utilizado proviene de material reciclado.
+- El empaque es 100 % libre de plástico, de cartón certificado FSC.
+- Sonora Labs ofrece un programa de reciclaje: al entregar unos auriculares
+  viejos de cualquier marca se obtiene un 10 % de descuento en la compra de los
+  Auralis X2.
+
+==================================================
+12. PREGUNTAS FRECUENTES
+==================================================
+
+¿Se pueden usar los Auralis X2 para hacer deporte?
+Sí, tienen certificación IPX4 contra sudor y salpicaduras, pero no se
+recomiendan para correr por su peso de 254 gramos.
+
+¿Son compatibles con consolas de videojuegos?
+Funcionan con cable de 3,5 mm en cualquier consola. Por Bluetooth funcionan
+con PC y con consolas compatibles con LE Audio.
+
+¿Tienen modo de baja latencia?
+Sí. El "Modo Juego" reduce la latencia a 60 milisegundos. Se activa con un
+doble toque sostenido en el panel táctil o desde la app.
+
+¿Cuál es la diferencia principal con los Auralis X1?
+Los X2 tienen 48 horas de autonomía con ANC (los X1 tenían 30), 8 micrófonos
+(los X1 tenían 6), Bluetooth 5.4 (los X1 tenían 5.2) y pesan 18 gramos menos.
+
+¿Se puede reemplazar la batería?
+Sí, pero solo en el servicio técnico oficial. El costo fuera de garantía es de
+USD 59.

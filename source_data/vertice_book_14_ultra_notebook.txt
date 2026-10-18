@@ -1,0 +1,253 @@
+VÉRTICE BOOK 14 ULTRA — NOTEBOOK ULTRALIVIANA PARA PROFESIONALES
+Ficha de producto, configuraciones, guía de uso y soporte
+Fabricante: Andes Computing S.A. (Mendoza, Argentina)
+Versión del documento: 1.4 — Fecha de publicación: julio de 2026
+
+==================================================
+1. DESCRIPCIÓN GENERAL
+==================================================
+
+La Vértice Book 14 Ultra es una notebook ultraliviana de 14 pulgadas diseñada
+por Andes Computing para profesionales, desarrolladores de software y creadores
+de contenido que necesitan potencia, portabilidad y autonomía.
+
+Es el modelo insignia de la familia Vértice, que también incluye la Vértice
+Book 13 Air (orientada a estudiantes) y la Vértice Book 16 Studio (orientada a
+edición de video). La Book 14 Ultra se presentó el 3 de junio de 2026 y llegó
+a las tiendas el 1 de julio de 2026.
+
+Su lema comercial es "Potencia de altura". Las notebooks Vértice se ensamblan
+en la planta de Andes Computing en Luján de Cuyo, Mendoza.
+
+==================================================
+2. CONFIGURACIONES DISPONIBLES
+==================================================
+
+Hay tres configuraciones a la venta:
+
+Configuración Esencial (código VB14U-E):
+- Procesador: Ryzen AI 7 de 10 núcleos.
+- Memoria RAM: 16 GB LPDDR5X a 7.500 MT/s.
+- Almacenamiento: SSD NVMe de 512 GB.
+- Pantalla: IPS 2,8K a 120 Hz.
+- Precio: USD 1.199.
+
+Configuración Pro (código VB14U-P):
+- Procesador: Ryzen AI 9 de 12 núcleos.
+- Memoria RAM: 32 GB LPDDR5X a 7.500 MT/s.
+- Almacenamiento: SSD NVMe de 1 TB.
+- Pantalla: OLED 3K a 120 Hz.
+- Precio: USD 1.599.
+
+Configuración Max (código VB14U-M):
+- Procesador: Ryzen AI 9 de 12 núcleos.
+- Memoria RAM: 64 GB LPDDR5X a 8.000 MT/s.
+- Almacenamiento: SSD NVMe de 2 TB.
+- Pantalla: OLED 3K a 120 Hz con superficie táctil.
+- Gráfica dedicada adicional de 8 GB GDDR7.
+- Precio: USD 2.199.
+
+En Argentina, el precio de lista de la configuración Pro es de ARS 2.890.000
+(julio de 2026). Todas las configuraciones vienen en color Gris Andino. La
+configuración Max también se ofrece en Azul Glaciar.
+
+Importante: la memoria RAM está soldada a la placa y NO se puede ampliar. El
+SSD sí es reemplazable (formato M.2 2280, PCIe 5.0).
+
+==================================================
+3. ESPECIFICACIONES COMUNES
+==================================================
+
+Pantalla:
+- Tamaño: 14 pulgadas, relación de aspecto 16:10.
+- Brillo: 500 nits (IPS) / 600 nits en HDR (OLED).
+- Cobertura de color: 100 % sRGB (IPS) / 100 % DCI-P3 (OLED).
+- Bordes de 3,8 mm, relación pantalla-cuerpo del 92 %.
+- Calibración de fábrica con Delta E menor a 1 en los modelos OLED.
+
+Procesamiento de IA:
+- Unidad de procesamiento neuronal (NPU) de 55 TOPS.
+- Permite ejecutar modelos de lenguaje locales de hasta 13.000 millones de
+  parámetros en la configuración Max.
+
+Puertos:
+- 2 puertos USB4 (40 Gbps) con carga y salida de video.
+- 1 puerto USB-A 3.2 (10 Gbps).
+- 1 puerto HDMI 2.1.
+- 1 lector de tarjetas microSD UHS-II.
+- 1 jack combinado de audio de 3,5 mm.
+
+Conectividad inalámbrica:
+- Wi-Fi 7.
+- Bluetooth 5.4.
+
+Batería y carga:
+- Batería de 75 Wh.
+- Autonomía en reproducción de video: hasta 22 horas (IPS) o 18 horas (OLED).
+- Autonomía en uso de oficina: hasta 15 horas.
+- Cargador USB-C GaN de 100 W incluido.
+- Carga rápida: 50 % en 30 minutos.
+
+Cuerpo:
+- Chasis de aluminio de grado aeroespacial de una sola pieza.
+- Peso: 1,19 kg (Esencial y Pro), 1,38 kg (Max).
+- Grosor: 14,9 mm (Esencial y Pro), 16,8 mm (Max).
+- Cumple con la norma militar MIL-STD-810H en 12 pruebas de resistencia.
+
+Teclado y entrada:
+- Teclado retroiluminado con recorrido de 1,5 mm, distribución en español
+  latinoamericano.
+- Tecla dedicada "Asistente IA".
+- Touchpad de vidrio háptico de 15 x 9,5 cm.
+- Lector de huellas integrado en el botón de encendido.
+
+Cámara y audio:
+- Cámara de 5 megapíxeles con sensor infrarrojo para reconocimiento facial.
+- Obturador físico de privacidad para la cámara.
+- Cuatro parlantes (2 woofers de 2 W y 2 tweeters de 1 W).
+- Tres micrófonos con reducción de ruido por IA.
+
+Sistema operativo:
+- Se vende con Windows 11 Pro o con Ubuntu 24.04 LTS preinstalado.
+- La versión con Ubuntu cuesta USD 100 menos.
+
+==================================================
+4. CONTENIDO DE LA CAJA
+==================================================
+
+- Notebook Vértice Book 14 Ultra.
+- Cargador USB-C GaN de 100 W.
+- Cable USB-C a USB-C de 2 metros con trenzado de nylon.
+- Funda de neopreno (solo en las configuraciones Pro y Max).
+- Guía rápida y tarjeta de garantía.
+
+==================================================
+5. PRIMER USO
+==================================================
+
+5.1 Encendido
+Abrir la tapa: la notebook se enciende automáticamente. Si no enciende,
+conectarla al cargador durante 10 minutos.
+
+5.2 Configuración inicial
+Seguir el asistente del sistema operativo. Se recomienda registrar la huella
+digital y el reconocimiento facial durante la configuración.
+
+5.3 Aplicación Vértice Control
+Viene preinstalada y permite:
+- Elegir el perfil de energía: Silencioso, Equilibrado o Rendimiento.
+- Activar el "Modo Cuidado de Batería", que limita la carga al 80 % para
+  prolongar la vida útil de la batería.
+- Ajustar la retroiluminación del teclado.
+- Actualizar BIOS y controladores.
+- Ver el estado de la garantía.
+- Ejecutar un diagnóstico de hardware completo (tarda unos 20 minutos).
+
+==================================================
+6. ATAJOS DE TECLADO PROPIOS
+==================================================
+
+- Fn + Q: alternar perfiles de energía.
+- Fn + Espacio: cambiar la intensidad de la retroiluminación.
+- Fn + F7: activar o desactivar el modo avión.
+- Fn + F9: abrir Vértice Control.
+- Fn + Supr: bloquear la tecla Fn (para usar F1–F12 directamente).
+- Tecla Asistente IA: abre el asistente del sistema; mantenida 2 segundos
+  inicia el dictado por voz.
+
+==================================================
+7. RENDIMIENTO Y TEMPERATURA
+==================================================
+
+- Sistema de refrigeración "Viento Zonda" con 2 ventiladores y cámara de vapor.
+- Potencia sostenida del procesador: 28 W en Equilibrado y 45 W en Rendimiento.
+- Ruido máximo de ventiladores: 38 dB en modo Rendimiento.
+- En modo Silencioso los ventiladores se apagan por completo con tareas
+  livianas como navegación o edición de texto.
+- Temperatura máxima de la superficie del teclado: 41 °C bajo carga máxima.
+
+==================================================
+8. SOLUCIÓN DE PROBLEMAS
+==================================================
+
+Problema: la notebook no enciende.
+Solución: conectar el cargador y mantener presionado el botón de encendido
+durante 20 segundos para forzar un reinicio del controlador de energía.
+
+Problema: la batería no carga más del 80 %.
+Solución: probablemente esté activado el Modo Cuidado de Batería. Desactivarlo
+en Vértice Control > Energía.
+
+Problema: la pantalla parpadea en el modelo OLED.
+Solución: actualizar el controlador gráfico desde Vértice Control. La versión
+de BIOS 1.08 (agosto 2026) corrige el parpadeo a bajo brillo.
+
+Problema: la notebook se calienta demasiado.
+Solución: usar el perfil Equilibrado, no apoyarla sobre superficies blandas y
+limpiar las rejillas de ventilación inferiores.
+
+Problema: un monitor externo no se detecta.
+Solución: usar un puerto USB4 o el HDMI 2.1. El puerto USB-A no tiene salida de
+video.
+
+Restauración de fábrica:
+Encender la notebook y presionar F11 repetidamente para entrar al entorno de
+recuperación "Vértice Rescue". Desde allí se puede restaurar el sistema
+operativo original. El proceso tarda aproximadamente 40 minutos.
+
+==================================================
+9. GARANTÍA Y SOPORTE
+==================================================
+
+- Garantía estándar: 1 año para la configuración Esencial y 2 años para las
+  configuraciones Pro y Max.
+- La batería tiene garantía de 1 año en todas las configuraciones.
+- Plan "Vértice Protect": extiende la garantía hasta 3 años en total e incluye
+  cobertura por daños accidentales (caídas y derrames de líquidos), con hasta
+  2 reclamos por año. Precio: USD 149. Debe contratarse dentro de los 60 días
+  posteriores a la compra.
+- Servicio "Puerta a Puerta": un courier retira la notebook en todo el país sin
+  costo durante la garantía. Tiempo promedio de reparación: 5 días hábiles.
+- Política de píxeles muertos: se reemplaza la pantalla si hay 1 o más píxeles
+  muertos en los modelos OLED, o 3 o más en los modelos IPS.
+
+Contacto:
+- Correo: soporte@andescomputing.com.ar
+- Teléfono: 0800-222-8374
+- Chat en vertice.com.ar/soporte, las 24 horas, los 7 días.
+
+==================================================
+10. SOSTENIBILIDAD
+==================================================
+
+- El chasis utiliza un 50 % de aluminio reciclado.
+- Andes Computing garantiza disponibilidad de repuestos durante 7 años.
+- Puntaje de reparabilidad interno: 8,5 sobre 10. La tapa inferior se retira
+  con 6 tornillos Torx T5.
+- Programa "Vértice Renueva": entregando una notebook usada se obtiene un
+  descuento de hasta USD 300 según su estado.
+
+==================================================
+11. PREGUNTAS FRECUENTES
+==================================================
+
+¿Sirve para programar y usar máquinas virtuales?
+Sí. Se recomienda la configuración Pro (32 GB) o Max (64 GB) para varias
+máquinas virtuales o contenedores en simultáneo.
+
+¿Se puede jugar videojuegos?
+Las configuraciones Esencial y Pro manejan juegos livianos en 1080p. La
+configuración Max, gracias a su gráfica dedicada de 8 GB, ejecuta juegos
+exigentes en 1080p con calidad alta.
+
+¿Se puede cargar con un cargador de celular?
+Sí, con cualquier cargador USB-C Power Delivery, pero con menos de 45 W la
+carga será lenta y puede no alcanzar durante un uso intensivo.
+
+¿Cuántos monitores externos admite?
+Hasta 3 monitores externos: 2 por USB4 y 1 por HDMI 2.1, con resolución de
+hasta 4K a 60 Hz cada uno.
+
+¿Cuál es la diferencia con la Vértice Book 13 Air?
+La Book 13 Air pesa 1,05 kg, no tiene opción OLED, llega a un máximo de 16 GB
+de RAM y no tiene NPU. Cuesta desde USD 799.
