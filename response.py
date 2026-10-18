@@ -1,6 +1,8 @@
+import os
+
 from langchain_core.prompts import ChatPromptTemplate
 
-from config import DOCKER_BASE_URL, LLM_MODELS, LLM_PROVIDER
+from config import DOCKER_BASE_URL, EMBEDDING_PROVIDER, LLM_MODELS, LLM_PROVIDER, PERSIST_DIR, RETRIEVER_K
 from schema import RespuestaLLM, RAGResponse
 
 SYSTEM_PROMPT = """Eres un experto en tecnologia. Tu única fuente de verdad es el
@@ -37,6 +39,23 @@ def get_llm(provider=LLM_PROVIDER):
     return ChatGoogleGenerativeAI(model=model, temperature=0)
 
 
+def get_retriever(provider=EMBEDDING_PROVIDER, k=RETRIEVER_K):
+    """Abre el índice Chroma del proveedor; si todavía no existe, lo crea (carga + chunking + indexado)."""
+    from chunking import generar_chunks
+    from embeddings import get_embeddings
+    from loadData import cargar_datos
+    from persistData import persistir
+
+    persist_dir = os.path.join(PERSIST_DIR, provider)
+    indice_existe = os.path.exists(persist_dir) and len(os.listdir(persist_dir)) > 0
+    if not indice_existe:
+        cargar_datos()
+    chunks = [] if indice_existe else generar_chunks()
+
+    vectorstore = persistir(chunks, get_embeddings(provider), persist_dir=persist_dir)
+    return vectorstore.as_retriever(search_kwargs={"k": k})
+
+
 def formatear_documentos(docs) -> str:
     return "\n\n---\n\n".join(
         f"[Fuente: {d.metadata.get('source', 'desconocida')}]\n{d.page_content}"
@@ -44,7 +63,10 @@ def formatear_documentos(docs) -> str:
     )
 
 
-async def get_rag_response(query: str, retriever, llm=None) -> RAGResponse:
+async def get_rag_response(query: str, retriever=None, llm=None) -> RAGResponse:
+    # retriever y llm son opcionales: por defecto se usan los proveedores de config.py / .env
+    retriever = retriever or get_retriever()
+
     # Cadena LCEL: prompt -> llm con salida estructurada (recibe contexto y pregunta ya armados).
     # json_schema hace que el servidor restrinja la generación al esquema de RespuestaLLM:
     # más robusto que pedir el formato en el prompt, sobre todo con modelos chicos.

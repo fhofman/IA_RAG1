@@ -1,10 +1,17 @@
+langchain
 langchain-community
 langchain-text-splitters
 tiktoken
 langchain-chroma
+chromadb
+pydantic
+python-dotenv
 
-# Embeddings (alcanza con instalar el del proveedor que uses)
+# Embeddings y LLM (alcanza con instalar el del proveedor que uses)
 langchain-google-genai
 langchain-openai
 langchain-huggingface
 sentence-transformers
+
+# Tests
+pytest

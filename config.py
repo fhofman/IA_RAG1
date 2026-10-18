@@ -1,6 +1,12 @@
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # Proveedor de embeddings a usar: "gemini", "docker" o "huggingface"
-# Se puede sobrescribir al ejecutar: python main.py docker
-EMBEDDING_PROVIDER = "huggingface"
+# Se puede sobrescribir en el .env (EMBEDDING_PROVIDER) o al ejecutar: python main.py docker
+EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "huggingface")
 
 # ⚠️ Mismo modelo de embeddings para indexar Y para consultar
 EMBEDDING_MODELS = {
@@ -18,8 +24,8 @@ PERSIST_DIR = "vectorstore"
 COLLECTION_NAME = "productos"
 
 # LLM que genera la respuesta: "gemini" o "docker"
-# Se puede sobrescribir al ejecutar: python main.py huggingface "" docker
-LLM_PROVIDER = "gemini"
+# Se puede sobrescribir en el .env (LLM_PROVIDER) o al ejecutar: python main.py huggingface "" docker
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "gemini")
 LLM_MODELS = {
     "gemini": "gemini-flash-latest",
     "docker": "ai/llama3.2:3B-Q4_K_M",  # alternativa más liviana: "ai/llama3.2:1B-Q8_0"
